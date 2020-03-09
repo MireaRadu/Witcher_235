@@ -2,17 +2,17 @@ package tasks.services;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import tasks.model.ArrayTaskList;
 import tasks.model.Task;
+import tasks.model.TaskList;
 import tasks.model.TasksOperations;
 
 import java.util.Date;
 
 public class TasksService {
 
-    private ArrayTaskList tasks;
+    private TaskList tasks;
 
-    public TasksService(ArrayTaskList tasks){
+    public TasksService(TaskList tasks){
         this.tasks = tasks;
     }
 
@@ -40,15 +40,11 @@ public class TasksService {
         String[] units = stringTime.split(":");
         int hours = Integer.parseInt(units[0]);
         int minutes = Integer.parseInt(units[1]);
-        int result = (hours * DateService.MINUTES_IN_HOUR + minutes) * DateService.SECONDS_IN_MINUTE;
-        return result;
+        return (hours * DateService.MINUTES_IN_HOUR + minutes) * DateService.SECONDS_IN_MINUTE;
     }
 
     public Iterable<Task> filterTasks(Date start, Date end){
         TasksOperations tasksOps = new TasksOperations(getObservableList());
-        Iterable<Task> filtered = tasksOps.incoming(start,end);
-        //Iterable<Task> filtered = tasks.incoming(start, end);
-
-        return filtered;
+        return tasksOps.incoming(start,end);
     }
 }
