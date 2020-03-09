@@ -27,14 +27,13 @@ import java.util.Date;
 
 public class Controller {
     private static final Logger log = Logger.getLogger(Controller.class.getName());
-    public ObservableList<Task> tasksList;
+    private ObservableList<Task> tasksList;
     TasksService service;
     DateService dateService;
 
-    public static Stage editNewStage;
-    public static Stage infoStage;
-
-    public static TableView mainTable;
+    private static Stage editNewStage;
+    private static Stage infoStage;
+    private static TableView mainTable;
 
     @FXML
     public  TableView tasks;
@@ -55,14 +54,37 @@ public class Controller {
     @FXML
     private TextField fieldTimeTo;
 
+    public static Stage getEditNewStage() {
+        return editNewStage;
+    }
+
+    public static Stage getInfoStage() {
+        return infoStage;
+    }
+
+    public static TableView getMainTable() {
+        return mainTable;
+    }
+
+    private static void setMainTable(TableView tasks){
+        mainTable = tasks;
+    }
+
+    private static void setEditNewStage(Stage stage){
+        editNewStage = stage;
+    }
+
+    private static void setInfoStage(Stage stage){
+        infoStage = stage;
+    }
+
     public void setService(TasksService service){
         this.service=service;
         this.dateService=new DateService(service);
         this.tasksList=service.getObservableList();
         updateCountLabel(tasksList);
         tasks.setItems(tasksList);
-        mainTable = tasks;
-
+        setMainTable(tasks);
         tasksList.addListener((ListChangeListener.Change<? extends Task> c) -> {
                     updateCountLabel(tasksList);
                     tasks.setItems(tasksList);
@@ -85,12 +107,11 @@ public class Controller {
     public void showTaskDialog(ActionEvent actionEvent){
         Object source = actionEvent.getSource();
         NewEditController.setClickedButton((Button) source);
-
         try {
-            editNewStage = new Stage();
+            setEditNewStage(new Stage());
             NewEditController.setCurrentStage(editNewStage);
             FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/new-edit-task.fxml"));
-            Parent root = loader.load();//getClass().getResource("/fxml/new-edit-task.fxml"));
+            Parent root = loader.load();
             NewEditController editCtrl = loader.getController();
             editCtrl.setService(service);
             editCtrl.setTasksList(tasksList);
@@ -113,19 +134,20 @@ public class Controller {
     }
     @FXML
     public void showDetailedInfo(){
-        try {
-            Stage stage = new Stage();
-            FXMLLoader loader =new FXMLLoader(getClass().getResource("/fxml/task-info.fxml"));
-            Parent root = loader.load();
-            stage.setScene(new Scene(root, 550, 350));
-            stage.setResizable(false);
-            stage.setTitle("Info");
-            stage.initModality(Modality.APPLICATION_MODAL);//??????
-            infoStage = stage;
-            stage.show();
-        }
-        catch (IOException e){
-            log.error("error loading task-info.fxml");
+        if(!mainTable.getSelectionModel().isEmpty()) {
+            try {
+                Stage stage = new Stage();
+                FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/task-info.fxml"));
+                Parent root = loader.load();
+                stage.setScene(new Scene(root, 550, 350));
+                stage.setResizable(false);
+                stage.setTitle("Info");
+                stage.initModality(Modality.APPLICATION_MODAL);//??????
+                setInfoStage(new Stage());
+                stage.show();
+            } catch (IOException e) {
+                log.error("error loading task-info.fxml");
+            }
         }
     }
     @FXML

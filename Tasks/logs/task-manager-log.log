@@ -1,0 +1,315 @@
+2020-03-08 20:29:50 INFO  Main:38 - saved data reading
+2020-03-08 20:29:50 INFO  Main:43 - application start
+2020-03-08 20:29:50 INFO  Controller:75 - Main controller initializing
+2020-03-08 20:29:52 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 20:31:27 INFO  Main:38 - saved data reading
+2020-03-08 20:31:27 INFO  Main:43 - application start
+2020-03-08 20:31:27 INFO  Controller:75 - Main controller initializing
+2020-03-08 20:31:30 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 20:31:30 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 20:31:32 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 20:31:32 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 20:32:11 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:02:01 INFO  Main:38 - saved data reading
+2020-03-08 21:02:01 INFO  Main:43 - application start
+2020-03-08 21:02:01 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:02:03 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:02:06 ERROR LinkedTaskList:87 - index doesn't exist
+2020-03-08 21:02:32 INFO  Main:38 - saved data reading
+2020-03-08 21:02:32 ERROR TaskIO:93 - IO exception reading or writing file
+2020-03-08 21:02:32 INFO  Main:43 - application start
+2020-03-08 21:02:32 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:02:35 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:02:39 ERROR LinkedTaskList:87 - index doesn't exist
+2020-03-08 21:03:35 INFO  Main:38 - saved data reading
+2020-03-08 21:03:35 ERROR TaskIO:93 - IO exception reading or writing file
+2020-03-08 21:03:35 INFO  Main:43 - application start
+2020-03-08 21:03:36 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:03:37 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:03:49 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:03:59 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:04:12 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:04:20 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:04:23 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:04:23 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:04:46 INFO  Main:38 - saved data reading
+2020-03-08 21:04:46 INFO  Main:43 - application start
+2020-03-08 21:04:46 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:04:48 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:10:46 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:14:41 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:14:54 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:15:00 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:15:22 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:15:43 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:20:17 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:20:21 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:20:29 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:20:30 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:20:58 ERROR Controller:128 - error loading task-info.fxml
+2020-03-08 21:21:01 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:27:07 INFO  Main:38 - saved data reading
+2020-03-08 21:27:07 INFO  Main:43 - application start
+2020-03-08 21:27:07 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:27:21 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:27:27 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:27:31 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:27:34 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:27:39 INFO  Main:38 - saved data reading
+2020-03-08 21:27:39 INFO  Main:43 - application start
+2020-03-08 21:27:39 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:29:15 INFO  Main:38 - saved data reading
+2020-03-08 21:29:15 INFO  Main:43 - application start
+2020-03-08 21:29:15 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:29:39 INFO  Main:38 - saved data reading
+2020-03-08 21:29:39 INFO  Main:43 - application start
+2020-03-08 21:29:40 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:29:46 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:29:58 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:04 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:10 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:15 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:32 INFO  Main:38 - saved data reading
+2020-03-08 21:30:32 INFO  Main:43 - application start
+2020-03-08 21:30:33 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:30:34 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:40 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:30:53 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:05 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:15 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:17 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:25 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:32 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:31:49 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:35:43 INFO  Main:38 - saved data reading
+2020-03-08 21:35:43 INFO  Main:43 - application start
+2020-03-08 21:35:43 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:35:45 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:35:47 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:35:51 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:40:44 INFO  Main:38 - saved data reading
+2020-03-08 21:40:44 INFO  Main:43 - application start
+2020-03-08 21:40:44 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:40:46 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:40:52 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:43:47 INFO  Main:38 - saved data reading
+2020-03-08 21:43:47 INFO  Main:43 - application start
+2020-03-08 21:43:47 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:45:47 INFO  Main:38 - saved data reading
+2020-03-08 21:45:47 INFO  Main:43 - application start
+2020-03-08 21:45:47 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:45:56 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:46:08 INFO  Main:38 - saved data reading
+2020-03-08 21:46:08 INFO  Main:43 - application start
+2020-03-08 21:46:08 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:46:10 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:46:13 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:46:21 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:46:25 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:46:28 INFO  TaskInfoController:26 - task info window initializing
+2020-03-08 21:46:48 INFO  Main:38 - saved data reading
+2020-03-08 21:46:48 INFO  Main:43 - application start
+2020-03-08 21:46:48 INFO  Controller:75 - Main controller initializing
+2020-03-08 21:58:01 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:58:13 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:58:43 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:59:01 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:59:05 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 21:59:45 INFO  Main:38 - saved data reading
+2020-03-08 21:59:45 INFO  Main:43 - application start
+2020-03-08 21:59:45 INFO  Controller:75 - Main controller initializing
+2020-03-08 22:03:50 INFO  Main:38 - saved data reading
+2020-03-08 22:03:50 INFO  Main:43 - application start
+2020-03-08 22:03:50 INFO  Controller:75 - Main controller initializing
+2020-03-08 22:03:59 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 22:26:31 INFO  Main:39 - saved data reading
+2020-03-08 22:26:31 INFO  Main:44 - application start
+2020-03-08 22:26:31 INFO  Controller:75 - Main controller initializing
+2020-03-08 22:26:38 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 22:26:41 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 22:26:43 INFO  NewEditController:91 - new/edit window initializing
+2020-03-08 22:26:48 INFO  Main:39 - saved data reading
+2020-03-08 22:26:48 INFO  Main:44 - application start
+2020-03-08 22:26:48 INFO  Controller:75 - Main controller initializing
+2020-03-09 12:07:59 INFO  Main:39 - saved data reading
+2020-03-09 12:07:59 INFO  Main:44 - application start
+2020-03-09 12:07:59 INFO  Controller:86 - Main controller initializing
+2020-03-09 12:43:03 INFO  Main:39 - saved data reading
+2020-03-09 12:43:03 INFO  Main:44 - application start
+2020-03-09 12:43:03 INFO  Controller:97 - Main controller initializing
+2020-03-09 12:52:16 INFO  Main:39 - saved data reading
+2020-03-09 12:52:16 INFO  Main:44 - application start
+2020-03-09 12:52:16 INFO  Controller:97 - Main controller initializing
+2020-03-09 12:53:03 INFO  Main:39 - saved data reading
+2020-03-09 12:53:03 INFO  Main:44 - application start
+2020-03-09 12:53:03 INFO  Controller:97 - Main controller initializing
+2020-03-09 12:53:34 INFO  Main:39 - saved data reading
+2020-03-09 12:53:34 INFO  Main:44 - application start
+2020-03-09 12:53:34 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:08:50 INFO  Main:39 - saved data reading
+2020-03-09 13:08:50 ERROR TaskIO:85 - IO exception reading or writing file
+2020-03-09 13:08:50 INFO  Main:44 - application start
+2020-03-09 13:08:50 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:08:53 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:08:54 INFO  NewEditController:199 - Task{title='', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:08:58 INFO  Main:39 - saved data reading
+2020-03-09 13:08:58 INFO  Main:44 - application start
+2020-03-09 13:08:58 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:09:01 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:09:05 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:09:08 INFO  NewEditController:199 - Task{title='gfdgdfs', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:09:18 INFO  Main:39 - saved data reading
+2020-03-09 13:09:18 INFO  Main:44 - application start
+2020-03-09 13:09:18 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:09:28 INFO  Main:39 - saved data reading
+2020-03-09 13:09:28 INFO  Main:44 - application start
+2020-03-09 13:09:28 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:09:30 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:09:32 INFO  NewEditController:199 - Task{title='ee', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:09:37 INFO  Main:39 - saved data reading
+2020-03-09 13:09:37 ERROR TaskIO:85 - IO exception reading or writing file
+2020-03-09 13:09:37 INFO  Main:44 - application start
+2020-03-09 13:09:38 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:10:04 INFO  Main:39 - saved data reading
+2020-03-09 13:10:04 ERROR TaskIO:85 - IO exception reading or writing file
+2020-03-09 13:10:04 INFO  Main:44 - application start
+2020-03-09 13:10:04 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:10:06 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:10:08 INFO  NewEditController:199 - Task{title='dd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:10:15 INFO  Main:39 - saved data reading
+2020-03-09 13:10:15 ERROR TaskIO:85 - IO exception reading or writing file
+2020-03-09 13:10:15 INFO  Main:44 - application start
+2020-03-09 13:10:15 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:10:17 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:10:19 INFO  NewEditController:199 - Task{title='gfdg', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:10:20 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:10:21 INFO  NewEditController:199 - Task{title='', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:10:26 INFO  Main:39 - saved data reading
+2020-03-09 13:10:26 INFO  Main:44 - application start
+2020-03-09 13:10:26 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:11:14 INFO  Main:39 - saved data reading
+2020-03-09 13:11:14 INFO  Main:44 - application start
+2020-03-09 13:11:15 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:11:18 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:11:20 INFO  NewEditController:199 - Task{title='fgdfs', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:11:24 INFO  Main:39 - saved data reading
+2020-03-09 13:11:24 INFO  Main:44 - application start
+2020-03-09 13:11:24 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:13:39 INFO  Main:39 - saved data reading
+2020-03-09 13:13:39 ERROR TaskIO:85 - IO exception reading or writing file
+2020-03-09 13:13:39 INFO  Main:44 - application start
+2020-03-09 13:13:39 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:13:41 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:13:43 INFO  NewEditController:199 - Task{title='fdsg', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:13:48 INFO  Main:39 - saved data reading
+2020-03-09 13:13:48 INFO  Main:44 - application start
+2020-03-09 13:13:48 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:14:17 INFO  Main:39 - saved data reading
+2020-03-09 13:14:17 ERROR TaskIO:89 - IO exception reading or writing file
+2020-03-09 13:14:17 INFO  Main:44 - application start
+2020-03-09 13:14:17 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:14:18 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:14:20 INFO  NewEditController:199 - Task{title='dsfg', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:14:23 INFO  Main:39 - saved data reading
+2020-03-09 13:14:23 INFO  Main:44 - application start
+2020-03-09 13:14:24 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:15:07 INFO  Main:39 - saved data reading
+2020-03-09 13:15:07 INFO  Main:44 - application start
+2020-03-09 13:15:07 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:15:10 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:15:11 INFO  NewEditController:199 - Task{title='sdf', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:15:15 INFO  Main:39 - saved data reading
+2020-03-09 13:15:15 INFO  Main:44 - application start
+2020-03-09 13:15:15 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:15:46 INFO  Main:39 - saved data reading
+2020-03-09 13:15:46 INFO  Main:44 - application start
+2020-03-09 13:15:46 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:15:53 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:15:54 INFO  NewEditController:199 - Task{title='agasd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:15:57 INFO  Main:39 - saved data reading
+2020-03-09 13:15:57 INFO  Main:44 - application start
+2020-03-09 13:15:58 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:18:19 INFO  Main:39 - saved data reading
+2020-03-09 13:18:19 INFO  Main:44 - application start
+2020-03-09 13:18:19 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:18:26 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:18:29 INFO  NewEditController:199 - Task{title='dfgfds', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:18:33 INFO  Main:39 - saved data reading
+2020-03-09 13:18:33 INFO  Main:44 - application start
+2020-03-09 13:18:33 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:18:36 INFO  TaskInfoController:26 - task info window initializing
+2020-03-09 13:20:07 INFO  Main:39 - saved data reading
+2020-03-09 13:20:07 INFO  Main:44 - application start
+2020-03-09 13:20:07 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:20:10 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:20:16 INFO  NewEditController:199 - Task{title='dfgfd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 10:00:00 EET 2020, interval=1800, active=false}
+2020-03-09 13:20:20 INFO  Main:39 - saved data reading
+2020-03-09 13:20:20 INFO  Main:44 - application start
+2020-03-09 13:20:21 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:20:24 INFO  TaskInfoController:26 - task info window initializing
+2020-03-09 13:20:28 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:20:29 INFO  NewEditController:199 - Task{title='dfgfd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 10:00:00 EET 2020, interval=1800, active=true}
+2020-03-09 13:26:57 INFO  Main:39 - saved data reading
+2020-03-09 13:26:57 INFO  Main:44 - application start
+2020-03-09 13:26:57 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:27:44 INFO  Main:39 - saved data reading
+2020-03-09 13:27:44 INFO  Main:44 - application start
+2020-03-09 13:27:44 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:28:16 INFO  Main:39 - saved data reading
+2020-03-09 13:28:16 INFO  Main:44 - application start
+2020-03-09 13:28:16 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:28:19 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:28:21 INFO  NewEditController:199 - Task{title='dfgd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:28:24 INFO  TaskInfoController:26 - task info window initializing
+2020-03-09 13:28:31 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:47:10 INFO  Main:35 - saved data reading
+2020-03-09 13:47:10 INFO  Main:40 - application start
+2020-03-09 13:47:10 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:47:12 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:47:14 INFO  NewEditController:199 - Task{title='dfgd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=false}
+2020-03-09 13:47:20 INFO  Main:35 - saved data reading
+2020-03-09 13:47:20 INFO  Main:40 - application start
+2020-03-09 13:47:20 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:47:25 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:47:27 INFO  NewEditController:199 - Task{title='dfgd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 10:00:00 EET 2020, interval=1800, active=false}
+2020-03-09 13:47:34 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:47:36 INFO  NewEditController:199 - Task{title='dfgd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 10:00:00 EET 2020, interval=1800, active=true}
+2020-03-09 13:47:46 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:47:46 INFO  TasksOperations:20 - Thu Mar 19 20:00:00 EET 2020
+2020-03-09 13:47:52 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:47:52 INFO  TasksOperations:20 - Sat Apr 04 20:00:00 EEST 2020
+2020-03-09 13:48:46 INFO  Main:35 - saved data reading
+2020-03-09 13:48:46 INFO  Main:40 - application start
+2020-03-09 13:48:46 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:49:01 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:49:01 INFO  TasksOperations:20 - Sat Apr 11 11:00:00 EEST 2020
+2020-03-09 13:49:01 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:49:07 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:49:12 INFO  NewEditController:199 - Task{title='fgsd', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=true}
+2020-03-09 13:49:15 INFO  NewEditController:90 - new/edit window initializing
+2020-03-09 13:49:19 INFO  NewEditController:199 - Task{title='aaa', start=Mon Mar 09 08:00:00 EET 2020, end=Mon Mar 09 08:00:00 EET 2020, interval=0, active=true}
+2020-03-09 13:49:22 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:49:22 INFO  TasksOperations:20 - Sat Apr 11 11:00:00 EEST 2020
+2020-03-09 13:49:22 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:49:28 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:49:28 INFO  TasksOperations:20 - Sat Apr 11 11:00:00 EEST 2020
+2020-03-09 13:49:28 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:49:33 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:49:33 INFO  TasksOperations:20 - Sat Apr 11 11:00:00 EEST 2020
+2020-03-09 13:49:33 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:49:37 INFO  Main:35 - saved data reading
+2020-03-09 13:49:37 INFO  Main:40 - application start
+2020-03-09 13:49:38 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:49:48 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:49:48 INFO  TasksOperations:20 - Fri Apr 10 11:00:00 EEST 2020
+2020-03-09 13:49:48 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:49:48 INFO  TasksOperations:26 - fgsd
+2020-03-09 13:49:48 INFO  TasksOperations:26 - aaa
+2020-03-09 13:49:58 INFO  Main:35 - saved data reading
+2020-03-09 13:49:58 INFO  Main:40 - application start
+2020-03-09 13:49:59 INFO  Controller:97 - Main controller initializing
+2020-03-09 13:50:11 INFO  TasksOperations:19 - Sun Mar 01 01:00:00 EET 2020
+2020-03-09 13:50:11 INFO  TasksOperations:20 - Fri Apr 03 11:00:00 EEST 2020
+2020-03-09 13:50:11 INFO  TasksOperations:26 - dfgd
+2020-03-09 13:50:11 INFO  TasksOperations:26 - fgsd
+2020-03-09 13:50:11 INFO  TasksOperations:26 - aaa
