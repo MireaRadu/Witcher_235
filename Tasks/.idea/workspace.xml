@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Witcher_235.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/validator/TaskValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/TaskInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/TaskInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/main.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +51,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="sonarlint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,9 +139,9 @@
       <workItem from="1582489647132" duration="101000" />
       <workItem from="1583690456346" duration="266000" />
       <workItem from="1583690737069" duration="48000" />
-      <workItem from="1583690801262" duration="15730000" />
-      <workItem from="1584043185167" duration="1070000" />
-      <workItem from="1584044297328" duration="588000" />
+      <workItem from="1583690801262" duration="16690000" />
+      <workItem from="1583835945309" duration="38000" />
+      <workItem from="1584040560219" duration="1960000" />
     </task>
     <servers />
   </component>
