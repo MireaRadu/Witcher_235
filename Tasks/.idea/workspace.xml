@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/665dec39384a747ccf12fd544bf02f4a3d18695a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/665dec39384a747ccf12fd544bf02f4a3d18695a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4e952c1a4765c6cf9a337826a42d32c3f95db7f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4e952c1a4765c6cf9a337826a42d32c3f95db7f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/initial/RequirementsTasks_v1.0.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/initial/RequirementsTasks_v1.0.docx" afterDir="false" />
-    </list>
+    <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +49,10 @@
     <property name="settings.editor.selected.configurable" value="sonarlint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
   </component>
