@@ -2,27 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Witcher_235.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/validator/TaskValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4a1f17f000c14a51c1b4832557db4be154b6363" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/Notificator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/Notificator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/TaskInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/TaskInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/ArrayTaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/ArrayTaskList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/LinkedTaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/LinkedTaskList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/TaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/TaskList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/DateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/DateService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/tasks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/main.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,13 +42,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1XnEHoqZMPZ1XnpQrub9xp7L4QM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -150,6 +144,8 @@
       <workItem from="1583690456346" duration="266000" />
       <workItem from="1583690737069" duration="48000" />
       <workItem from="1583690801262" duration="15730000" />
+      <workItem from="1584043185167" duration="1070000" />
+      <workItem from="1584044297328" duration="588000" />
     </task>
     <servers />
   </component>
@@ -168,6 +164,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="271" y="0" key="#Tasks_[exec:java]" timestamp="1581673618434">
@@ -232,7 +231,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/controller/MainController.java</url>
           <line>148</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

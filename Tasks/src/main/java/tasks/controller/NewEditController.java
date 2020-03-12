@@ -150,11 +150,11 @@ public class NewEditController {
             currentTask = null;
         }
         TaskIO.rewriteFile(tasksList);
-        Controller.getEditNewStage().close();
+        MainController.getEditNewStage().close();
     }
     @FXML
     public void closeDialogWindow(){
-        Controller.getEditNewStage().close();
+        MainController.getEditNewStage().close();
     }
 
     private Task collectFieldsData(){
