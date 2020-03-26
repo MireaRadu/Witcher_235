@@ -133,25 +133,30 @@ public class NewEditController {
         fieldInterval.setText(DEFAULT_INTERVAL_TIME);
     }
 
+    private void updateTasks(Task task, String buttonType){
+        if(buttonType.equals("btnNew")){
+            tasksList.add(task);
+            service.addTask(task);
+        } else if (buttonType.equals("btnEdit")){
+            for (int i = 0; i < tasksList.size(); i++){
+                if (currentTask.equals(tasksList.get(i))){
+                    tasksList.set(i,task);
+                }
+            }
+            service.updateTask(currentTask, task);
+            currentTask = null;
+        }
+    }
+
     @FXML
     public void saveChanges(){
         Task collectedFieldsTask = collectFieldsData();
         if (incorrectInputMade) return;
-
-        if (clickedButton.getId().equals("btnNew")){//no task was chosen -> add button was pressed
-            tasksList.add(collectedFieldsTask);
-        }
-        else if(clickedButton.getId().equals("btnEdit")){
-            for (int i = 0; i < tasksList.size(); i++){
-                if (currentTask.equals(tasksList.get(i))){
-                    tasksList.set(i,collectedFieldsTask);
-                }
-            }
-            currentTask = null;
-        }
+        updateTasks(collectedFieldsTask, clickedButton.getId());
         TaskIO.rewriteFile(tasksList);
         MainController.getEditNewStage().close();
     }
+
     @FXML
     public void closeDialogWindow(){
         MainController.getEditNewStage().close();
@@ -161,7 +166,7 @@ public class NewEditController {
         incorrectInputMade = false;
         Task result = null;
         try {
-            result = makeTask();
+            result = service.createTask(getTitle(), getStartDate(), getEndDate(), isRepetitive(), getInterval(), isActive());
         }
         catch (RuntimeException e){
             incorrectInputMade = true;
@@ -179,6 +184,41 @@ public class NewEditController {
         }
         return result;
     }
+
+    private Date getStartDate() {
+        Date startDateWithNoTime = dateService.getDateValueFromLocalDate(datePickerStart.getValue());//ONLY date!!without time
+        return dateService.getDateMergedWithTime(txtFieldTimeStart.getText(), startDateWithNoTime);
+    }
+
+    private Date getEndDate(){
+        if (checkBoxRepeated.isSelected()) {
+            Date endDateWithNoTime = dateService.getDateValueFromLocalDate(datePickerEnd.getValue());
+            return dateService.getDateMergedWithTime(txtFieldTimeEnd.getText(), endDateWithNoTime);
+        } else {
+            return null;
+        }
+    }
+
+    private int getInterval(){
+        if(checkBoxRepeated.isSelected()) {
+            return service.parseFromStringToSeconds(fieldInterval.getText());
+        } else {
+            return 0;
+        }
+    }
+
+    private String getTitle(){
+        return fieldTitle.getText();
+    }
+
+    private boolean isActive(){
+        return checkBoxActive.isSelected();
+    }
+
+    private boolean isRepetitive(){
+        return checkBoxRepeated.isSelected();
+    }
+
     private Task makeTask(){
         Task result;
         String newTitle = fieldTitle.getText();

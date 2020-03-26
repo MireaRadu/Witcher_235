@@ -313,3 +313,75 @@
 2020-03-09 13:50:11 INFO  TasksOperations:26 - dfgd
 2020-03-09 13:50:11 INFO  TasksOperations:26 - fgsd
 2020-03-09 13:50:11 INFO  TasksOperations:26 - aaa
+2020-03-24 13:05:56 INFO  Main:35 - saved data reading
+2020-03-24 13:05:56 ERROR TaskIO:84 - IO exception reading or writing file
+2020-03-24 13:05:56 INFO  Main:40 - application start
+2020-03-24 13:05:57 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:06:01 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:07:30 INFO  Main:35 - saved data reading
+2020-03-24 13:07:30 ERROR TaskIO:84 - IO exception reading or writing file
+2020-03-24 13:07:30 INFO  Main:40 - application start
+2020-03-24 13:07:31 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:07:33 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:07:35 INFO  NewEditController:248 - Task{title='a', start=Tue Mar 24 08:00:00 EET 2020, end=Tue Mar 24 08:00:00 EET 2020, interval=0, active=false}
+2020-03-24 13:07:42 INFO  Main:35 - saved data reading
+2020-03-24 13:07:42 INFO  Main:40 - application start
+2020-03-24 13:07:42 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:12:17 INFO  Main:35 - saved data reading
+2020-03-24 13:12:17 INFO  Main:40 - application start
+2020-03-24 13:12:18 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:12:20 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:12:45 INFO  Main:35 - saved data reading
+2020-03-24 13:12:45 INFO  Main:40 - application start
+2020-03-24 13:12:45 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:12:48 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:14:36 INFO  Main:35 - saved data reading
+2020-03-24 13:14:36 INFO  Main:40 - application start
+2020-03-24 13:14:36 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:14:38 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:14:50 INFO  Main:35 - saved data reading
+2020-03-24 13:14:50 INFO  Main:40 - application start
+2020-03-24 13:14:51 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:14:53 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:16:07 INFO  Main:35 - saved data reading
+2020-03-24 13:16:07 INFO  Main:40 - application start
+2020-03-24 13:16:08 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:16:10 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:17:44 INFO  Main:35 - saved data reading
+2020-03-24 13:17:44 INFO  Main:40 - application start
+2020-03-24 13:17:45 INFO  MainController:97 - Main controller initializing
+2020-03-24 13:17:47 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:17:49 INFO  NewEditController:232 - Task{title='aa', start=Tue Mar 24 08:00:00 EET 2020, end=Tue Mar 24 08:00:00 EET 2020, interval=0, active=false}
+2020-03-24 13:17:51 INFO  NewEditController:90 - new/edit window initializing
+2020-03-24 13:17:56 INFO  NewEditController:232 - Task{title='aa', start=Tue Mar 24 08:00:00 EET 2020, end=Tue Mar 24 10:00:00 EET 2020, interval=1800, active=true}
+2020-03-26 14:18:36 INFO  Main:35 - saved data reading
+2020-03-26 14:18:36 INFO  Main:40 - application start
+2020-03-26 14:18:37 INFO  MainController:97 - Main controller initializing
+2020-03-26 14:18:39 INFO  NewEditController:90 - new/edit window initializing
+2020-03-26 14:57:30 ERROR Task:32 - time below bound
+2020-03-26 15:02:19 ERROR Task:36 - interval < than 1
+2020-03-26 15:02:42 ERROR Task:36 - interval < than 1
+2020-03-26 15:04:35 ERROR Task:32 - time below bound
+2020-03-26 15:05:13 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:13 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:13 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:13 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:13 ERROR Task:32 - time below bound
+2020-03-26 15:05:13 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:51 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:51 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:51 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:51 ERROR Task:36 - interval < than 1
+2020-03-26 15:05:51 ERROR Task:32 - time below bound
+2020-03-26 15:06:03 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:03 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:03 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:03 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:03 ERROR Task:32 - time below bound
+2020-03-26 15:06:03 ERROR Task:32 - time below bound
+2020-03-26 15:06:58 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:58 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:58 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:58 ERROR Task:36 - interval < than 1
+2020-03-26 15:06:58 ERROR Task:32 - time below bound
+2020-03-26 15:06:58 ERROR Task:32 - time below bound

@@ -11,8 +11,6 @@ W
 .src/main/java/tasks/model/TasksOperations.java,4\f\4f01b9f8917f794cdf589fb86ab1f8dec2bc64a1
 ^
 .src/main/java/tasks/services/TasksService.java,7\d\7d63de46d8ec7dacaab386b187106455df813537
-^
-.src/main/java/tasks/controller/Controller.java,e\c\ecf3c385b36af4d118754ee8d9878c48978fcaa9
 e
 5src/main/java/tasks/controller/NewEditController.java,6\3\63fe2cc9c3e91dd6fea9fe629ea649e64db0d708
 _
@@ -27,3 +25,7 @@ X
 (src/main/java/tasks/services/TaskIO.java,2\6\26c7ae39591499fab3685c25bb4834dc2fc7cf24
 ]
 -src/main/java/tasks/services/DateService.java,b\a\ba27869b1e0ea8fe162ea3b4618a07816f29da05
+b
+2src/main/java/tasks/controller/MainController.java,7\5\75d9213a6a1041fa565f6a6d759071d3edc1f42c
+`
+0src/main/java/tasks/validator/TaskException.java,6\a\6a4762550fc4699d2380338f2b1434f3ff57006a

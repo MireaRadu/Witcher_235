@@ -16,7 +16,6 @@ public class TasksService {
         this.tasks = tasks;
     }
 
-
     public ObservableList<Task> getObservableList(){
         return FXCollections.observableArrayList(tasks.getAll());
     }
@@ -27,6 +26,28 @@ public class TasksService {
         minutes = minutes % DateService.MINUTES_IN_HOUR;
         return formTimeUnit(hours) + ":" + formTimeUnit(minutes);//hh:MM
     }
+
+    public void addTask(Task task){
+        tasks.add(task);
+    }
+
+    public void updateTask(Task oldTask, Task newTask){
+        tasks.remove(oldTask);
+        tasks.add(newTask);
+    }
+
+    public Task createTask(String title, Date startDate, Date endDate, boolean repetitive, int interval, boolean active){
+        Task task;
+        if(repetitive){
+            if (startDate.after(endDate)) throw new IllegalArgumentException("Start date should be before end");
+            task = new Task(title, startDate, endDate, interval);
+        }else{
+            task = new Task(title, startDate);
+        }
+        task.setActive(active);
+        return task;
+    }
+
     public String formTimeUnit(int timeUnit){
         StringBuilder sb = new StringBuilder();
         if (timeUnit < 10) sb.append("0");
