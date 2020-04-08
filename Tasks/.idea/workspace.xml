@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/Lab03_WBT_TCs_Form.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/Prj235_test_spec-2020-04-07.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/task-manager-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/task-manager-log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/NewEditController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/data/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/tasks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/controller/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/controller/NewEditController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/controller/NewEditController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/controller/Notificator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/controller/Notificator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/controller/TaskInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/controller/TaskInfoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/ArrayTaskList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/ArrayTaskList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/TaskList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/TaskList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/TasksOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/TasksOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/services/TaskIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/services/TaskIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/services/TasksService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/services/TasksService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/view/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/view/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,15 +68,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="tasks.model" />
       <recent name="tasks.services" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab02" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab02" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
@@ -104,81 +96,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TasksServiceTest">
-    <configuration name="TasksServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TaskTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.view.Main" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
+          <option name="PATTERN" value="tasks.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.model" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTest.createTaskIntervalTooSmallECP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskTest.nextTimeAfterF02_TC01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
+          <option name="PATTERN" value="tasks.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
-      <option name="METHOD_NAME" value="createTaskIntervalTooSmallECP" />
+      <option name="PACKAGE_NAME" value="tasks.model" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
+      <option name="METHOD_NAME" value="nextTimeAfterF02_TC01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTest.createTaskStartDateTooBigBVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskTest.nextTimeAfterF02_TC04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
+          <option name="PATTERN" value="tasks.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
-      <option name="METHOD_NAME" value="createTaskStartDateTooBigBVA" />
+      <option name="PACKAGE_NAME" value="tasks.model" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
+      <option name="METHOD_NAME" value="nextTimeAfterF02_TC04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTest.createTaskValidHigherBVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskTest.nextTimeAfterF02_TC05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
+          <option name="PATTERN" value="tasks.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
-      <option name="METHOD_NAME" value="createTaskValidHigherBVA" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TasksServiceTest.createTaskValidLowerBVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
-      <option name="METHOD_NAME" value="createTaskValidLowerBVA" />
+      <option name="PACKAGE_NAME" value="tasks.model" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
+      <option name="METHOD_NAME" value="nextTimeAfterF02_TC05" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -212,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TasksServiceTest" />
-        <item itemvalue="JUnit.TasksServiceTest.createTaskStartDateTooBigBVA" />
-        <item itemvalue="JUnit.TasksServiceTest.createTaskIntervalTooSmallECP" />
-        <item itemvalue="JUnit.TasksServiceTest.createTaskValidHigherBVA" />
-        <item itemvalue="JUnit.TasksServiceTest.createTaskValidLowerBVA" />
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC05" />
+        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC04" />
+        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC01" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +235,14 @@
       <workItem from="1584040560219" duration="1960000" />
       <workItem from="1585041249059" duration="8917000" />
       <workItem from="1585157528030" duration="40000" />
-      <workItem from="1585224694841" duration="3547000" />
+      <workItem from="1585224694841" duration="3639000" />
+      <workItem from="1585229521318" duration="7000" />
+      <workItem from="1585231603333" duration="20000" />
+      <workItem from="1585303320819" duration="1681000" />
+      <workItem from="1585309617696" duration="25000" />
+      <workItem from="1586258521439" duration="3133000" />
+      <workItem from="1586335282232" duration="225000" />
+      <workItem from="1586336151160" duration="5097000" />
     </task>
     <servers />
   </component>
@@ -335,6 +331,34 @@
           <url>file://$PROJECT_DIR$/src/main/java/tasks/controller/MainController.java</url>
           <line>148</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java</url>
+          <line>17</line>
+          <properties class="tasks.model.TasksOperations" method="incoming">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

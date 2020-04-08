@@ -29,3 +29,7 @@ b
 2src/main/java/tasks/controller/MainController.java,7\5\75d9213a6a1041fa565f6a6d759071d3edc1f42c
 `
 0src/main/java/tasks/validator/TaskException.java,6\a\6a4762550fc4699d2380338f2b1434f3ff57006a
+`
+0src/main/java/tasks/validator/TaskValidator.java,9\f\9fa5d586ee627d2078e62af568ed1c6cdd51db3c
+b
+2src/test/java/tasks/services/TasksServiceTest.java,1\e\1ed2e4afe6f0e30a24669299239d591463d36916

@@ -385,3 +385,34 @@
 2020-03-26 15:06:58 ERROR Task:36 - interval < than 1
 2020-03-26 15:06:58 ERROR Task:32 - time below bound
 2020-03-26 15:06:58 ERROR Task:32 - time below bound
+2020-03-26 15:12:29 ERROR Task:36 - interval < than 1
+2020-03-26 15:12:29 ERROR Task:36 - interval < than 1
+2020-03-26 15:12:29 ERROR Task:36 - interval < than 1
+2020-03-26 15:12:29 ERROR Task:36 - interval < than 1
+2020-03-26 15:12:29 ERROR Task:32 - time below bound
+2020-03-26 15:12:29 ERROR Task:32 - time below bound
+2020-04-07 14:25:02 ERROR Task:36 - interval < than 1
+2020-04-07 14:25:02 ERROR Task:36 - interval < than 1
+2020-04-07 14:25:02 ERROR Task:36 - interval < than 1
+2020-04-07 14:25:02 ERROR Task:36 - interval < than 1
+2020-04-07 14:25:02 ERROR Task:32 - time below bound
+2020-04-07 14:25:02 ERROR Task:32 - time below bound
+2020-04-07 14:25:11 INFO  Main:35 - saved data reading
+2020-04-07 14:25:11 INFO  Main:40 - application start
+2020-04-07 14:25:12 INFO  MainController:97 - Main controller initializing
+2020-04-07 14:25:18 INFO  NewEditController:90 - new/edit window initializing
+2020-04-07 14:25:23 INFO  NewEditController:90 - new/edit window initializing
+2020-04-07 14:25:27 INFO  NewEditController:90 - new/edit window initializing
+2020-04-07 14:25:30 INFO  NewEditController:90 - new/edit window initializing
+2020-04-07 14:25:50 INFO  TasksOperations:19 - Wed Apr 03 00:10:00 EEST 2019
+2020-04-07 14:25:50 INFO  TasksOperations:20 - Fri May 01 00:10:00 EEST 2020
+2020-04-07 14:25:50 INFO  TasksOperations:26 - a
+2020-04-07 14:25:50 INFO  TasksOperations:26 - aa
+2020-04-07 14:25:50 INFO  TasksOperations:26 - aa
+2020-04-07 14:25:50 INFO  TasksOperations:26 - fadsfds
+2020-04-07 14:26:20 INFO  NewEditController:90 - new/edit window initializing
+2020-04-07 14:26:24 INFO  TasksOperations:19 - Wed Apr 03 00:10:00 EEST 2019
+2020-04-07 14:26:24 INFO  TasksOperations:20 - Fri May 01 00:10:00 EEST 2020
+2020-04-07 14:26:24 INFO  TasksOperations:26 - aa
+2020-04-07 14:26:24 INFO  TasksOperations:26 - aa
+2020-04-07 14:26:24 INFO  TasksOperations:26 - fadsfds
