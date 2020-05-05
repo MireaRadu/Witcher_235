@@ -416,3 +416,33 @@
 2020-04-07 14:26:24 INFO  TasksOperations:26 - aa
 2020-04-07 14:26:24 INFO  TasksOperations:26 - aa
 2020-04-07 14:26:24 INFO  TasksOperations:26 - fadsfds
+2020-05-05 12:19:30 ERROR Task:37 - interval < than 1
+2020-05-05 12:19:30 ERROR Task:37 - interval < than 1
+2020-05-05 12:19:30 ERROR Task:37 - interval < than 1
+2020-05-05 12:19:30 ERROR Task:37 - interval < than 1
+2020-05-05 12:19:30 ERROR Task:33 - time below bound
+2020-05-05 12:19:30 ERROR Task:33 - time below bound
+2020-05-05 12:20:18 ERROR Task:37 - interval < than 1
+2020-05-05 12:20:18 ERROR Task:37 - interval < than 1
+2020-05-05 12:20:18 ERROR Task:37 - interval < than 1
+2020-05-05 12:20:18 ERROR Task:37 - interval < than 1
+2020-05-05 12:20:18 ERROR Task:33 - time below bound
+2020-05-05 12:20:18 ERROR Task:33 - time below bound
+2020-05-05 12:21:25 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:25 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:25 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:25 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:25 ERROR Task:33 - time below bound
+2020-05-05 12:21:25 ERROR Task:33 - time below bound
+2020-05-05 12:21:44 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:44 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:44 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:44 ERROR Task:37 - interval < than 1
+2020-05-05 12:21:44 ERROR Task:33 - time below bound
+2020-05-05 12:21:44 ERROR Task:33 - time below bound
+2020-05-05 12:23:01 ERROR Task:37 - interval < than 1
+2020-05-05 12:23:01 ERROR Task:37 - interval < than 1
+2020-05-05 12:23:01 ERROR Task:37 - interval < than 1
+2020-05-05 12:23:01 ERROR Task:37 - interval < than 1
+2020-05-05 12:23:01 ERROR Task:33 - time below bound
+2020-05-05 12:23:01 ERROR Task:33 - time below bound

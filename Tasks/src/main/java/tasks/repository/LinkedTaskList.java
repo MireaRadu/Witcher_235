@@ -1,8 +1,9 @@
-package tasks.model;
+package tasks.repository;
 
 
 
 import org.apache.log4j.Logger;
+import tasks.model.Task;
 
 import java.io.Serializable;
 import java.util.Iterator;

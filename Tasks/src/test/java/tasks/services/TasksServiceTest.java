@@ -1,9 +1,10 @@
 package tasks.services;
 
 import org.junit.jupiter.api.*;
-import tasks.model.ArrayTaskList;
+import org.mockito.Mockito;
+import tasks.repository.ArrayTaskList;
 import tasks.model.Task;
-import tasks.model.TaskList;
+import tasks.repository.TaskList;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -135,4 +136,5 @@ class TasksServiceTest {
                 new Date(Long.MAX_VALUE + 1), true, 5, true));
         assertEquals(exception.getMessage(), "Time cannot be negative");
     }
+
 }

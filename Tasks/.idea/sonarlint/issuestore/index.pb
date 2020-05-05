@@ -33,3 +33,7 @@ b
 0src/main/java/tasks/validator/TaskValidator.java,9\f\9fa5d586ee627d2078e62af568ed1c6cdd51db3c
 b
 2src/test/java/tasks/services/TasksServiceTest.java,1\e\1ed2e4afe6f0e30a24669299239d591463d36916
+W
+'src/test/java/tasks/model/TaskTest.java,3\1\31324894a484d06adcd87a923fb98e2c49cb815e
+N
+Docs/Lab03/coverage/index.html,6\4\64f84413af9a0650819d703e779668216609351e

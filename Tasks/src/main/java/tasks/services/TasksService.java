@@ -3,7 +3,7 @@ package tasks.services;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import tasks.model.Task;
-import tasks.model.TaskList;
+import tasks.repository.TaskList;
 import tasks.model.TasksOperations;
 
 import java.util.Date;

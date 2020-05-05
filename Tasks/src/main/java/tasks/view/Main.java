@@ -9,8 +9,8 @@ import javafx.stage.Stage;
 import org.apache.log4j.Logger;
 import tasks.controller.MainController;
 import tasks.controller.Notificator;
-import tasks.model.ArrayTaskList;
-import tasks.model.TaskList;
+import tasks.repository.ArrayTaskList;
+import tasks.repository.TaskList;
 import tasks.services.TaskIO;
 import tasks.services.TasksService;
 

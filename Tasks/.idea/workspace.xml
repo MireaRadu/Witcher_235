@@ -2,22 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docs/Lab03/Lab03_WBT_TCs_Form.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Lab03/Prj235_test_spec-2020-04-07.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/.css/coverage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/.img/arrowDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/.img/arrowUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/.classes/Task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab03/coverage/tasks.model/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/model/TaskStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListIntegrationRTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TaskServiceIntegrationETest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TaskServiceMockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Lab01/ClassDiagram.uml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/task-manager-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/task-manager-log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/ArrayTaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/repository/ArrayTaskList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/LinkedTaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/repository/LinkedTaskList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/TaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/repository/TaskList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/view/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/data/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/tasks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/model/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/ArrayTaskList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/ArrayTaskList$ArrayTaskListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/ArrayTaskList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList$LinkedTaskListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/LinkedTaskList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/model/TaskList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/services/TaskIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/services/TaskIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/services/TasksService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/services/TasksService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tasks/view/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tasks/view/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="122" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Tasks" />
@@ -26,13 +75,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Class" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -60,20 +114,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Docs/Lab02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="sonarlint" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="tasks.model" />
       <recent name="tasks.services" />
+      <recent name="tasks.repository" />
+      <recent name="tasks.model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03\coverage" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab02" />
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -96,78 +152,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TaskTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.view.Main" />
+  <component name="RunManager" selected="JUnit.ArrayTaskListIntegrationRTest.getObservableList">
+    <configuration name="All in Tasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.view.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayTaskListIntegrationRTest.getObservableList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.model.*" />
+          <option name="PATTERN" value="tasks.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
+      <option name="PACKAGE_NAME" value="tasks.repository" />
+      <option name="MAIN_CLASS_NAME" value="tasks.repository.ArrayTaskListIntegrationRTest" />
+      <option name="METHOD_NAME" value="getObservableList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskServiceIntegrationETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceIntegrationETest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest.nextTimeAfterF02_TC01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskServiceMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.model.*" />
+          <option name="PATTERN" value="tasks.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
-      <option name="METHOD_NAME" value="nextTimeAfterF02_TC01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceMockTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest.nextTimeAfterF02_TC04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskServiceMockTest.updateTaskMock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.model.*" />
+          <option name="PATTERN" value="tasks.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
-      <option name="METHOD_NAME" value="nextTimeAfterF02_TC04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskTest.nextTimeAfterF02_TC05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTest" />
-      <option name="METHOD_NAME" value="nextTimeAfterF02_TC05" />
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceMockTest" />
+      <option name="METHOD_NAME" value="updateTaskMock" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,13 +249,21 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Maven.Tasks [exec:java]" />
+      <item itemvalue="JUnit.TaskServiceMockTest" />
+      <item itemvalue="JUnit.TaskServiceMockTest.updateTaskMock" />
+      <item itemvalue="JUnit.TaskServiceIntegrationETest" />
+      <item itemvalue="JUnit.All in Tasks" />
+      <item itemvalue="JUnit.ArrayTaskListIntegrationRTest.getObservableList" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TaskTest" />
-        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC05" />
-        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC04" />
-        <item itemvalue="JUnit.TaskTest.nextTimeAfterF02_TC01" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ArrayTaskListIntegrationRTest.getObservableList" />
+        <item itemvalue="JUnit.All in Tasks" />
+        <item itemvalue="JUnit.TaskServiceIntegrationETest" />
+        <item itemvalue="JUnit.TaskServiceMockTest" />
+        <item itemvalue="JUnit.TaskServiceMockTest.updateTaskMock" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +300,12 @@
       <workItem from="1585309617696" duration="25000" />
       <workItem from="1586258521439" duration="3133000" />
       <workItem from="1586335282232" duration="225000" />
-      <workItem from="1586336151160" duration="5097000" />
+      <workItem from="1586336151160" duration="5166000" />
+      <workItem from="1586358800764" duration="884000" />
+      <workItem from="1586360136567" duration="665000" />
+      <workItem from="1586521892996" duration="3019000" />
+      <workItem from="1587986684885" duration="52000" />
+      <workItem from="1588618519977" duration="6683000" />
     </task>
     <servers />
   </component>
@@ -323,7 +386,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/LinkedTaskList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/tasks/repository/LinkedTaskList.java</url>
           <line>89</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -331,26 +394,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/tasks/controller/MainController.java</url>
           <line>148</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
-          <line>92</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tasks/model/Task.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java</url>
@@ -362,6 +405,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tasks$TaskTest.ic" NAME="TaskTest Coverage Results" MODIFIED="1586523215528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tasks.model.Task</FILTER>
+    </SUITE>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
