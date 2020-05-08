@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/model/TaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/task-manager-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/task-manager-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,17 +77,18 @@
       <recent name="tasks.repository" />
       <recent name="tasks.model" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03\coverage" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Radu\Desktop\Uni\VVSS\Witcher_235\Tasks\Docs\Lab04" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab02" />
-      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03\coverage" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab02" />
+      <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab03" />
       <recent name="C:\Users\Radu\Desktop\VVSS\Witcher_235\Tasks\Docs\Lab01" />
     </key>
   </component>
@@ -103,11 +104,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayTaskListIntegrationRTest.getObservableList">
+  <component name="RunManager" selected="Maven.Tasks [exec:java]">
     <configuration name="All in Tasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTaskListIntegrationRTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.repository" />
+      <option name="MAIN_CLASS_NAME" value="tasks.repository.ArrayTaskListIntegrationRTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +144,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayTaskListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.repository" />
+      <option name="MAIN_CLASS_NAME" value="tasks.repository.ArrayTaskListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskServiceIntegrationETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -139,37 +170,6 @@
       <option name="PACKAGE_NAME" value="tasks.services" />
       <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceIntegrationETest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskServiceMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceMockTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskServiceMockTest.updateTaskMock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TaskServiceMockTest" />
-      <option name="METHOD_NAME" value="updateTaskMock" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,21 +200,48 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="Tasks [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JUnit.TaskServiceMockTest" />
-      <item itemvalue="JUnit.TaskServiceMockTest.updateTaskMock" />
       <item itemvalue="JUnit.TaskServiceIntegrationETest" />
       <item itemvalue="JUnit.All in Tasks" />
       <item itemvalue="JUnit.ArrayTaskListIntegrationRTest.getObservableList" />
       <item itemvalue="Maven.Tasks [exec:java]" />
+      <item itemvalue="JUnit.ArrayTaskListTest" />
+      <item itemvalue="JUnit.ArrayTaskListIntegrationRTest" />
+      <item itemvalue="Maven.Tasks [install]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayTaskListIntegrationRTest.getObservableList" />
         <item itemvalue="JUnit.All in Tasks" />
+        <item itemvalue="JUnit.ArrayTaskListIntegrationRTest" />
+        <item itemvalue="JUnit.ArrayTaskListTest" />
+        <item itemvalue="JUnit.ArrayTaskListIntegrationRTest.getObservableList" />
         <item itemvalue="JUnit.TaskServiceIntegrationETest" />
-        <item itemvalue="JUnit.TaskServiceMockTest" />
-        <item itemvalue="JUnit.TaskServiceMockTest.updateTaskMock" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +286,8 @@
       <workItem from="1588618519977" duration="8240000" />
       <workItem from="1588677488807" duration="1242000" />
       <workItem from="1588787607930" duration="104000" />
+      <workItem from="1588922692039" duration="85000" />
+      <workItem from="1588923108755" duration="3976000" />
     </task>
     <servers />
   </component>

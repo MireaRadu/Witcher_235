@@ -3,6 +3,7 @@ package tasks.repository;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import tasks.model.Task;
+import tasks.model.TaskStub;
 
 import java.util.Date;
 
@@ -19,14 +20,14 @@ class ArrayTaskListTest {
 
     @Test
     void add() {
-        Task task = new Task("task", new Date());
+        Task task = new TaskStub();
         arrayTaskList.add(task);
         assertEquals("task", arrayTaskList.getAll().get(0).getTitle());
     }
 
     @Test
     void remove() {
-        Task task = new Task("task", new Date());
+        Task task = new TaskStub();
         arrayTaskList.add(task);
         arrayTaskList.remove(task);
         assertEquals(0, arrayTaskList.getAll().size());
