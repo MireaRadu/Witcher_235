@@ -8,7 +8,7 @@ import java.util.Date;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class TaskTest {
+class TaskTest extends RuntimeException{
 
     @Test
     void nextTimeAfterF02_TC01() {

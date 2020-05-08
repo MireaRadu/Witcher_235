@@ -5,8 +5,6 @@ R
 "src/main/java/tasks/view/Main.java,a\4\a4e952c1a4765c6cf9a337826a42d32c3f95db7f
 S
 #src/main/java/tasks/model/Task.java,6\6\665dec39384a747ccf12fd544bf02f4a3d18695a
-W
-'src/main/java/tasks/model/TaskList.java,f\c\fc2a13256c261b5abd00e9188b5f42e29358bf6e
 ^
 .src/main/java/tasks/model/TasksOperations.java,4\f\4f01b9f8917f794cdf589fb86ab1f8dec2bc64a1
 ^
@@ -17,10 +15,6 @@ _
 /src/main/java/tasks/controller/Notificator.java,9\0\90f3d1b886ea9e6023b322a07a34e807fd489693
 f
 6src/main/java/tasks/controller/TaskInfoController.java,9\9\99b511d75f317e72fa25245b579d48cb3d074646
-\
-,src/main/java/tasks/model/ArrayTaskList.java,f\7\f77a2442ed82eb8b7386f5c9a49162f894ad8a61
-]
--src/main/java/tasks/model/LinkedTaskList.java,e\0\e0863ceba847dbe828ffdd5fa8207144974e4dc8
 X
 (src/main/java/tasks/services/TaskIO.java,2\6\26c7ae39591499fab3685c25bb4834dc2fc7cf24
 ]
@@ -37,3 +31,19 @@ W
 'src/test/java/tasks/model/TaskTest.java,3\1\31324894a484d06adcd87a923fb98e2c49cb815e
 N
 Docs/Lab03/coverage/index.html,6\4\64f84413af9a0650819d703e779668216609351e
+\
+,src/main/java/tasks/repository/TaskList.java,7\6\76ef60a92609a9179c9ab54fd81a95781756279b
+b
+2src/main/java/tasks/repository/LinkedTaskList.java,5\2\526538ea262ebbabdc8f56978b93b763da737526
+W
+'src/main/java/tasks/model/TaskStub.java,4\e\4e17d63db2f97e2f2798d2b91e4ecb6a9218ee17
+a
+1src/main/java/tasks/repository/ArrayTaskList.java,1\f\1fa02ca17ae0ffdd9aeb0814e648e18f7e1bf040
+e
+5src/test/java/tasks/services/TaskServiceMockTest.java,2\4\248dc9a8dad4a6e402cc841d4ce1532a28eded38
+e
+5src/test/java/tasks/repository/ArrayTaskListTest.java,f\e\fee6c416cb4e323448566da86babc832d88ceca0
+q
+Asrc/test/java/tasks/repository/ArrayTaskListIntegrationRTest.java,4\9\499e6469219ab4fae609495724118e2c71caba14
+m
+=src/test/java/tasks/services/TaskServiceIntegrationETest.java,9\d\9d21cac86f00c5845513548b5a811244e792d6df
