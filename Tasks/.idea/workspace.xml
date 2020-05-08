@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbe79f98-8ba9-4627-a3ca-7e0c8d7562fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/task-manager-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/task-manager-log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/repository/ArrayTaskListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -287,7 +285,7 @@
       <workItem from="1588677488807" duration="1242000" />
       <workItem from="1588787607930" duration="104000" />
       <workItem from="1588922692039" duration="85000" />
-      <workItem from="1588923108755" duration="3976000" />
+      <workItem from="1588923108755" duration="5378000" />
     </task>
     <servers />
   </component>
